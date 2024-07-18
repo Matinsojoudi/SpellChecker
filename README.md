@@ -1,4 +1,4 @@
-## SpellChecker README
+## SpellChecker
 
 ### Introduction
 
